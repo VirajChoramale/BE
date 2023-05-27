@@ -1,0 +1,5 @@
+gcc filename.cpp -o filename
+./filename
+
+nvcc -o name filename
+     ./name 
